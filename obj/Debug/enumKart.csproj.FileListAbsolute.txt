@@ -1,0 +1,9 @@
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\bin\Debug\enumKart.exe.config
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\bin\Debug\enumKart.exe
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\bin\Debug\enumKart.pdb
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.Form1.resources
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.exe
+c:\users\tomek\documents\visual studio 2017\Projects\enumKart\enumKart\obj\Debug\enumKart.pdb
